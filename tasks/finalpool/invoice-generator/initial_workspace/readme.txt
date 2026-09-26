@@ -1,1 +1,1 @@
-This is an initial workspace for invoice-generator
+Initial workspace for invoice-generator
